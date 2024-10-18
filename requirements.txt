@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+redis
+slowapi
+pydantic-settings
+python-dotenv
+python-jose
+passlib
+python-multipart

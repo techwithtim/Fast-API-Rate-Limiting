@@ -1,0 +1,4 @@
+# Replace <access_token> with the actual token received from the login command
+curl -X GET http://localhost:8000/users/me \
+  -H "Authorization: Bearer <access_token>"
+
